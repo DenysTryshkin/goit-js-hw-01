@@ -13,7 +13,8 @@ It's time to boost your practical skills in these topics by solving the homework
 
 **Note!** The names of files and folders, as well as their nested structure, must match the given diagram. Otherwise, the work will not be accepted.
 
-![Project structure](https://s3.eu-north-1.amazonaws.com/lms.goit.files/429bf2a2-345f-4651-913b-0e9990aac0adFrame%2048582%20%282%29.jpg)
+![Alt-текст](images/image.png)
+
 
 *   Read each task and perform it in the corresponding file.
 *   Make sure the code is formatted using `Prettier`, and there are no errors or warnings in the console when opening the live page of the task.
