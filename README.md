@@ -11,10 +11,6 @@ It's time to boost your practical skills in these topics by solving the homework
 *   Create a repository named `goit-js-hw-01` and clone it to your computer.
 *   In the `goit-js-hw-01` folder, create the project structure as shown in the diagram below.
 
-**Note!** The names of files and folders, as well as their nested structure, must match the given diagram. Otherwise, the work will not be accepted.
-
-![Alt-текст](images/image.png)
-
 
 *   Read each task and perform it in the corresponding file.
 *   Make sure the code is formatted using `Prettier`, and there are no errors or warnings in the console when opening the live page of the task.
